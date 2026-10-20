@@ -1,0 +1,1 @@
+print("Em ledu lopala anta dolla....")
